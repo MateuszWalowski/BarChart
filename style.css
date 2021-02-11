@@ -1,0 +1,14 @@
+.barsgohere {
+    position: relative;
+    top: 10vh;
+    display: flex;
+    flex-flow: row;
+    align-items: flex-end
+}
+
+.bar {
+    height: 1em;
+    width: 2vw;
+    margin-right: 0.5em;
+    background-color: black;
+}
